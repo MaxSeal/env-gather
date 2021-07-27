@@ -1,5 +1,4 @@
 package com.briup.smart.env.main;
-
 import com.briup.smart.env.server.Server;
 import com.briup.smart.env.server.ServerImpl;
 
